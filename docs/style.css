@@ -1,5 +1,17 @@
 
-html { background:#AC9E97;}
-img { width:30%; height:auto;}
-html { color:#D2E0F1; }
-html {font-family: "Lucida Console", "Courier New", monospace; }
+html {
+    background: #90AEAD;
+}
+img {
+    width: 30%;
+    height: auto;
+}
+html {
+    color: black;
+}
+html {
+    font-family: "western", "fantasy", "Georgia", serif;
+}
+nav {
+    background:white
+}
