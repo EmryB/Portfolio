@@ -1,17 +1,15 @@
 
 html {
     background: #90AEAD;
+    color: black;
+    font-family: "western", "fantasy", "Georgia", serif;
 }
 img {
     width: 30%;
     height: auto;
 }
-html {
-    color: black;
-}
-html {
-    font-family: "western", "fantasy", "Georgia", serif;
-}
+
 nav {
-    background:white
+    background: white;
+    font-weight:bold
 }
