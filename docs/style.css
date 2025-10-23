@@ -3,10 +3,13 @@ html {
     background: #90AEAD;
     color: black;
     font-family: "western", "fantasy", "Georgia", serif;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 img {
-    width: 30%;
-    height: auto;
+    width: 100%;
+    max-width: 600px;
+
 }
 
 nav {
@@ -20,8 +23,41 @@ h1 {
 h2 {
     font-size: 2vw
 }
-h3 {font-size:1.5vw}
+h3 {
+    font-size: 1.5vw
+}
 h4 {
     font-size: 2vw
 }
-body {line-height:1.5em}
+body {
+    line-height: 1.5em;
+    font-size: medium;
+}
+div.side-by-side {
+    display: flex;
+    margin: auto;
+
+}
+figcaption {
+    font-size: medium
+}
+figure {
+    background-color: white
+}
+figure.sky {
+    flex: 1
+}
+figure.project {
+    flex: 1
+}
+ul {
+    border-style:ridge;
+    border-width:8px;
+}
+h2.work {
+    margin: auto
+
+}
+section.server {
+    margin: auto
+}
