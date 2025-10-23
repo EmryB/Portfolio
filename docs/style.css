@@ -11,6 +11,17 @@ img {
 
 nav {
     background: white;
-    font-weight:bold;
-    font-size:2vw;
+    font-weight: bold;
+    font-size: 2vw;
 }
+h1 {
+    font-size: 3.5vw;
+}
+h2 {
+    font-size: 2vw
+}
+h3 {font-size:1.5vw}
+h4 {
+    font-size: 2vw
+}
+body {line-height:1.5em}
