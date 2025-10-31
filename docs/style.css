@@ -40,7 +40,7 @@ body {
     font-size: medium;
 }
 div.side-by-side {
-    display:flex;
+    display: flex;
     margin: auto;
 
 }
@@ -67,3 +67,5 @@ h2.work {
 section.server {
     margin: auto
 }
+iframe {flex:1;
+width:400px}
